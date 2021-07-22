@@ -93,3 +93,5 @@ print(ti | tq) # union
 print(ti & tq) # intersection
 print(ti - tq) # difference
 print(ti ^ tq) # symmetric difference
+
+print(object(s), separator=separator, end=end, file=file, flush=flush)
